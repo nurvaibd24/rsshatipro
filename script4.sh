@@ -1,11 +1,10 @@
 #!/bin/bash
-cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
-
+cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-db_host='1734';
-db_user='scvpp';
-db_pass='@@AlaM';
-db_name='sc';
+HOST='50.116.18.242';
+USER='loveyoun_rsshatipro';
+PASS='p{2@X(wng6}1';
+DBNAME='loveyoun_rsshatipro';
 
 install_require()
 {
